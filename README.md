@@ -19,12 +19,6 @@ Fluid Background: A dynamic 4-color gradient background animated via CSS @keyfra
 
 Responsive Layout: Fully centered and adaptive layout using CSS Flexbox.
 
-📂 Project Structure
-Plaintext
-ServletDemo/
-├── src/main/java/AutoRefreshServlet.java  # Core Logic: Handles HTTP headers & HTML generation
-├── src/main/webapp/css/style.css          # Design: Animations & Glassmorphism styles
-└── pom.xml                                # Dependencies: Jakarta EE 10+ & Servlet API
 🚀 How to Run
 Clone the repository: git clone https://github.com/A-kunte/ServletDemo.git
 
